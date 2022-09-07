@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiwon Yoo</h1>
-<h3 align="center">ESTJ lv.01 똥강아지 개발자</h3>
+<h3 align="center">ESTJ lv.01</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
